@@ -37,7 +37,7 @@ python3 lattice_1d_modular.py
 - **Python:** 3.11+
 - **Dependencies:** `numpy`, `scipy.linalg.eigh` (no GPU required)
 - **Total compute:** approximately 10 minutes on a single CPU core for the full 1+1D scan
-- **Hardware tested:** Ubuntu 24.04 / Linux laptop and RTX 5090 workstation; CPU-only path
+- **Hardware tested:** Ubuntu 24.04 / Linux laptop and Nvidia GPU workstation; CPU-only path
 
 The 1+1D scan reproduces:
 
