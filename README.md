@@ -2,7 +2,7 @@
 
 **A Lattice Quantum Field Theory Test of the Static Escrow Postulate: 1+1D and 3+1D Falsification with Modular-Hamiltonian Partial Survival**
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20043421-blue)](https://doi.org/10.5281/zenodo.20043421)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20057538-blue)](https://doi.org/10.5281/zenodo.20057538)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-green)](https://opensource.org/licenses/MIT)
 [![License: CC BY 4.0](https://img.shields.io/badge/Data-CC_BY_4.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 [![Track: Entropic Bounds](https://img.shields.io/badge/Track-2_·_Entropic_Bounds-8b5cf6)](https://windstorminstitute.org/#track2)
@@ -15,7 +15,7 @@
 
 - **[Windstorm-Institute/lattice-qft-test](https://github.com/Windstorm-Institute/lattice-qft-test)** — paper PDF, abstract, headline results
 - **Website article:** [windstorminstitute.org/articles/lattice-qft-test.html](https://windstorminstitute.org/articles/lattice-qft-test.html)
-- **Zenodo (concept, always latest):** [10.5281/zenodo.20043421](https://doi.org/10.5281/zenodo.20043421)
+- **Zenodo:** [10.5281/zenodo.20057538](https://doi.org/10.5281/zenodo.20057538)
 - **v0.7 specifically:** [10.5281/zenodo.20057538](https://doi.org/10.5281/zenodo.20057538)
 
 ## Contents
@@ -100,7 +100,7 @@ Had Gemini's results been incorporated without ground-truth verification, the v0
 | 10 | [Phonon Extraction Bound (BEC Analog Gravity)](https://github.com/Windstorm-Institute/phonon-extraction-bound) *(1st in track)* | [10.5281/zenodo.20014391](https://doi.org/10.5281/zenodo.20014391) |
 | 11 | [Gravitational Entropy Escrow](https://github.com/Windstorm-Institute/gravitational-entropy-escrow) *(2nd in track; framework paper)* | [10.5281/zenodo.20032023](https://doi.org/10.5281/zenodo.20032023) |
 | 12 | [C8 Clarification Note](https://github.com/Windstorm-Institute/c8-clarification-note) *(3rd in track; companion to Paper 11)* | [10.5281/zenodo.20041992](https://doi.org/10.5281/zenodo.20041992) |
-| 13 | [Lattice QFT Test of the Static Escrow Postulate](https://github.com/Windstorm-Institute/lattice-qft-test) *(this paper — 4th in track; supplement to Paper 11)* | [10.5281/zenodo.20043421](https://doi.org/10.5281/zenodo.20043421) |
+| 13 | [Lattice QFT Test of the Static Escrow Postulate](https://github.com/Windstorm-Institute/lattice-qft-test) *(this paper — 4th in track; supplement to Paper 11)* | [10.5281/zenodo.20057538](https://doi.org/10.5281/zenodo.20057538) |
 
 **Website:** [windstorminstitute.org](https://windstorminstitute.org)
 
