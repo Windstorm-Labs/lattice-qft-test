@@ -47,7 +47,7 @@ The 1+1D scan reproduces:
 - The d1=1 Dirichlet wall anomaly (Section 2.1) and the heavy-mass saturation regime (Section 2.2)
 - The 1+1D vs 3+1D matched-mass comparison numbers (Section 3.4)
 
-The 3+1D production code (`lattice_3d_modular_external.py`) ships with the companion paper deposit on Zenodo. The dispatch script that performed external-provider verification is the same code, run in three independent sandboxes for ground-truth cross-validation.
+The 3+1D production code (`lattice_3d_modular_external.py`) is not yet mirrored to this repository or the Zenodo deposit (which currently holds the 1+1D script, `CONSOLIDATED_FINDINGS.md`, and the paper). The dispatch script that performed external-provider verification is the same code, run in three independent sandboxes for ground-truth cross-validation.
 
 ## Methodology context — why the single-mass-in-A protocol matters
 
